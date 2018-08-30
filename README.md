@@ -1,6 +1,12 @@
 # posistinterviewtest
 Dynamic List of ordered records with given specifications.
 
-To compile and run:
+In Terminal do the following:
+
+To compile :
+
 g++ posist.cpp -o posist
+
+To Run:
+
 ./posist
